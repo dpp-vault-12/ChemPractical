@@ -1,0 +1,487 @@
+
+========== PAGE 1 ==========
+
+1
+Titration of KMnO with Mohr Salt
+4
+Aim : To determine the strength of supplied solution of KMnO4 solution by titrating against
+the standard M/20 Mohr salt solution.
+Required Apparatus :
+Conical flask(250ml), Beaker, Burette(50ml), Pipette(20ml), Test tube, Funnel, Burette stand, Glazed tile
+Chemicals Required :
+Ferrous Ammonium Sulphate Solution, KMnO solution, 2M H SO , Distilled water.
+4 2 4
+Theory:
+Ferrous (Fe2+) ions present in the ferrous ammonium sulphate solution are readily oxidised by
+permenganate ions in acidic medium according to the chemical reaction :
+2KMnO + 8H SO + 10FeSO .(NH ) SO .6H O → K SO + 2MnSO + 5Fe (SO4) + 10(NH ) SO +
+4 2 4 4 4 2 4 2 2 4 4 2 3 4 2 4
+68H O
+2
+Ionic Reaction :
+MnO - + 5Fe2+ + 8H+ → Mn2+ + 4H O + 5Fe3+
+4 2
+As the reaction proceeds MnO - gets reduced to Mn2+ and hence pink color disappears and Fe2+ gets
+4
+oxidised to Fe3+.
+Indicator : KMnO a self indicator.
+4
+Change at end point : Colorless to pink.
+Observations:
+Strength of supplied Mohr salt : 0.05 M = M/20
+Sl. Volume Of Burette Reading Volume Of Concordant
+No. Mohr Salt Initial Reading Final reading KMnO Volume
+4
+ml
+1 20 ml 0 19.7 19.7 ml
+2 20 ml 0 19.6 19.6 ml 19.6 ml
+3 20 ml 0 19.6 19.6 ml
+Calculations :
+5 moles of Mohr salt is completely oxidised by 1 mole of KMnO .
+4
+Strength of unknown KMnO Solution in molarity is given by
+4
+(M × V )/ (M ×V ) = n / n
+1 1 2 2 1 2
+Strength of unknown KMnO = M ; Strength of Mohr Salt = M = 1/20
+4 1 2
+Volume of unknown KMnO = V = 19.6 ml ; Volume of Mohr salt = V = 20 ml
+4 1 2
+No. of moles of KMnO = n =1 ; No. of moles of Mohr Salt = n =5
+4 1 2
+(M × V )/ (M ×V ) = 1 / 5
+1 1 2 2
+M = (1 × 20 × 1) / 5 × 19.6 x 20
+1
+M = 1/98 (M) = 0.0102 M
+1
+Molarity of Unknown KMnO = 0.0102 M
+4
+Strength of KMnO = Molarity of KMnO × Molecular mass of KMnO
+4 4 4
+= 0.0102 x 158 = 1.16 g/L
+Results :
+Molarity of Unknown KMnO = 0.0102 M Strength of KMnO = 1.16 g/lt
+4 4
+Precaution :
+Always rinse the burette and the pipette with the solutions to be taken in them.
+Remove the air gaps from the burette.
+Always use freshly prepared FeSO solution.
+4
+
+========== PAGE 2 ==========
+
+2
+Detection of Functional Group In given Unknown Organic Sample
+Aim : To detect the Functional Group In given Unknown Organic Sample.
+Sample NO :
+PHYSICAL PROPERTIES :
+Colour : Colourless
+State : Liquid
+Odour : Smell of Vinegar.
+EXPERIMENT OBSERVATION INFERENCE
+1. The sample was dissolved in Unsaturation is not present in the
+acetone and a KMnO solution is Pink colour does not sample.
+4
+added to it dropwise. disappear.
+2. The sample was dissolved in Compound may contain
+water and treated with blue litmus Litmus paper changes to red. --OH (Phenolic) or --COOH group.
+paper.
+3. To the sample solution few drops --OH (Phenolic) is absent.
+of neutral FeCl was added. No change in colour.
+3
+4.Added pinch of sodium Brisk effervescence evolved --COOH group is present and
+bicarbonate to the sample taken in a confirmed.
+test tube.
+5. To the small amount of the Fruity smell evolved. --COOH group is present and
+sample taken in a test tube is confirmed.
+ethanol and few drops of
+conc.H SO is added and heated.
+2 4
+6.To the small amount of the No precipitation. Carbonyl group is absent.
+sample 2,4 DNP solution is added
+along with few drop is added and
+shaken.
+7.Since the solution is acidic test
+for primary amine is not performed.
+The given organic sample contains --COOH functional group. It is a carboxylic acid.
+
+========== PAGE 3 ==========
+
+3
+Detection of Functional Group In given Unknown Organic Sample
+Aim : To detect the Functional Group In given Unknown Organic Sample.
+Sample NO :
+PHYSICAL PROPERTIES :
+Colour : Pinkish.
+State : Liquid.
+Odour : Carbolic odour.
+EXPERIMENT OBSERVATION INFERENCE
+1. The sample was dissolved in Unsaturation is not present in the
+acetone and alkaline KMnO Pink colour changes. sample.
+4
+solution is added to it dropwise.
+2. The sample was dissolved in Compound may contain
+water and treated with blue litmus Litmus paper changes to red. --OH (Phenolic) or --COOH
+paper. group.
+3. To the sample solution few drops --OH (Phenolic) is present and
+of neutral FeCl was added. Violet colour. confirmed
+3
+4.Added pinch of sodium No brisk effervescence evolved --COOH group is absent.
+bicarbonate to the sample taken in a
+test tube.
+5.To the small amount of the No precipitation. Carbonyl group is absent.
+sample 2,4 DNP solution is added
+along with few drop is added and
+shaken.
+7.Since the solution is acidic test
+for primary amine is not performed.
+The given organic sample contains --OH (Phenolic) functional group.
+
+========== PAGE 4 ==========
+
+4
+Detection of Functional Group In given Unknown Organic Sample
+Aim : To detect the Functional Group In given Unknown Organic Sample.
+Sample No.
+PHYSICAL PROPERTIES :
+Colour : Colourless.
+State : Liquid.
+Odour : Vanila like smell
+EXPERIMENT OBSERVATION INFERENCE
+The sample was dissolved in
+acetone and alkaline KMnO Pink colour does not disappear. Un saturation is not present in the
+4
+solution is added drop wise sample.
+to it.
+To the sample solution few --OH (Phenolic) is absent
+drops of neutral FeCl was No change in colour
+3
+added.
+.Added pinch of sodium No Brisk effervescence evolved --COOH group is absent.
+bicarbonate to the sample
+taken in a test tube.
+To the small amount of the Yellow precipitation. Carbonyl group is present and
+sample 2,4 DNP solution is confirmed.
+added along with few drop is
+added and shaken.
+Small amount of sample is Grey precipitation. --CHO group is present and confirmed.
+treated with Tollens' reagent
+and heated in water bath.
+The given organic sample contains ---CHO as a functional group. It is an aldehyde.
+
+========== PAGE 5 ==========
+
+5
+Aim : To detect Acid and Basic Radical In given Unknown Inorganic Sample.
+SAMPLE 1
+Experiment Observation Inference
+1. PHYSICAL EXAMINATION
+Colour of the sample is noted White colour Cu2+,Fe2+,Fe3+,Ni2+, Mn2+,Co2+ are
+absent
+2.Dry Test Tube Heating : White sublimate formed NH + ,Cl- may be present
+4
+Heated small amount of the
+sample in a dry test tube.
+3.Flame test was performed. No characteristic colour in Ca2+,Sr2+,Ba2+and Cu2+ may be absent.
+the flame
+4. Sample being white in colour Borax bead test was not performed.
+5.Small amount of the sample is No specific observation CO 2-,may be absent.
+3
+treated with dilute H SO
+2 4
+6. Small amount of the solid No specific observation NO -, Cl- may be absent.
+3
+sample is treated with
+concentrated H SO
+2 4.
+There is no dry test for sulphate radical :
+Confirmatory test for acid radicals :
+Aqueous solution of the sample was prepared and following test for acid radical was performed.
+7. Aqueous solution of sample is White precipitate insoluble SO42- is present and confirmed.
+acidified with dilute HCl and in concn. nitric acid
+BaCl solution is added to it.
+2
+Confirmatory test for basic radicals :
+8. Heated the solid sample with Colourless gas with pungent NH + (Group 0) may be present.
+4
+NaOH solution in a test tube. smell evolves.
+Following test was performed
+with the evolved gas:
+16.A glass rod dipped in HCl White dense fumes NH + (Group 0)is present and
+4
+was brought near the mouth of produced confirmed.
+the test tube.
+17.A cotton plug dipped in Plug turns reddish brown NH + (Group 0) is present and
+4
+Nessler's reagent brought at the confirmed.
+mouth of the test tube.
+Since NH + (Group 0) is present and confirmed analysis for other Group is not done.
+4
+The given salt contains :
+ Basic Radical : NH +
+4
+ Acid Radical : SO 2-
+4
+
+========== PAGE 6 ==========
+
+6
+Analysis of Acid and Basic radical in given inorganic salt.
+Aim : To detect Acid and Basic Radical In given Unknown Inorganic Sample.
+SAMPLE No.
+Experiment Observation Inference
+1. PHYSICAL EXAMINATION
+Colour of the sample is noted White colour Cu2+,Fe2+,Fe3+,Ni2+, Mn2+,Co2+ are
+absent
+2.Dry Test Tube Heating : Formation of white sublimate NH + may be present
+4
+Heated small amount of the
+sample in a dry test tube.
+3. Flame test was performed. No characteristic colour in the Ca2+,Sr2+,Ba2+and Cu2+ may be absent.
+flame
+4.Sample being white in colour Borax bead test was not performed.
+5.Small amount of the sample is No gas evolves S2-, NO -, CO 2- may be absent.
+2 3
+treated with dilute H SO .
+2 4
+6. Small amount of the solid Pungent smelling gas evolved . Cl- may be present
+sample is treated with It gives dense white fumes with
+concentrated H SO rod dipped in NH OH.
+2 4. 4
+7. Heated a pinch of mixture Greenish yellow gas with Cl- may be present
+with conc. H SO and MnO pungent smell evolves.
+2 4 2
+Confirmatory test for acid radicals :
+Aqueous solution of the sample was prepared and following test for acid radical was performed.
+08. Acidified the solution with Curdy White precipitate Cl - is present and confirmed.
+dilute HNO and AgNO formed which dissoved in
+3 3
+solution was added. excess NH OH
+4
+Confirmatory test for basic radicals :
+09. Heated the solid sample with Colourless gas with pungent NH + (Group 0) may be present.
+4
+NaOH solution in a test tube. smell evolves.
+Following test was performed
+with the evolved gas:
+10.A glass rod dipped in HCl White dense fumes produced NH + (Group 0)is present and
+4
+was brought near the mouth of confirmed.
+the test tube.
+11.A cotton plug dipped in Plug turns reddish brown NH + (Group 0) is present and
+4
+Nessler's reagent brought at the confirmed.
+mouth of the test tube.
+Since NH + (Group 0) is
+4
+present and confirmed analysis
+for other Group is not done.
+The given salt contains:
+Basic Radical : NH +
+4
+Acid Radical : Cl-
+
+========== PAGE 7 ==========
+
+7
+Aim : To detect Acid and Basic Radical In given Unknown Inorganic Sample.
+SAMPLE NO.
+Experiment Observation Inference
+1. PHYSICAL EXAMINATION :
+Colour of the sample is noted White colour Cu2+,Fe2+,Fe3+,Ni2+, Mn2+,Co2+ are
+absent
+2. Dry Test Tube Heating : Cracking sound is obtained PbNO may be present.
+3
+Heated small amount of the
+sample in a dry test tube.
+3.Flame test was performed. Bluish white flame. Pb2+ may be present.
+4.Sample being white in colour Borax bead test was not performed.
+5. Small amount of the sample is No specific observation CO 2-, S2- may be absent.
+3
+treated with dilute H SO .
+2 4
+6. Small amount of the solid Brown fume evolves NO - may be present.
+3
+sample is treated with
+concentrated H SO in presence
+2 4
+of Cu turning.
+Confirmatory test for acid radicals :
+Aqueous solution of the sample was prepared and following test for acid radical was performed.
+7. Aqueous solution of sample is Brown Ring was formed. NO - is present and confirmed.
+3
+diluted with equal volume of
+freshly prepared FeSO and a
+4
+small amount of concn. H SO
+2 4
+was added to it.
+Confirmatory test for basic radicals :
+Experiment Observation Inference
+8. Heated the solid sample with No specific reaction takes NH + (Group 0) is absent.
+4
+NaOH solution in a test tube and place.
+Nessler's reagent added to it
+Preparation of aqueous extract : Aqueous extract of the sample was prepared and following test for basic
+radical was performed.
+9. Dilute HCl is added to the White precipitate. Gr I radicals , Pb2+ may be present.
+aqueous extract.
+The solution is filtered and with
+the residue analysis for Group I is
+proceeded'
+10.The residue of Group I is
+dissolved in hot water and with
+the solution following test was
+performed : Pb2+ is present and confirmed.
+(i) Added K CrO solution to one Yellow precipitate formed.
+2 4
+part of the solution. Pb2+ is present and confirmed
+(ii) Added KI solution to another Yellow precipitate obtained.
+portion of the solution.
+Since Pb2+ is present analysis for other radical is not done.
+The given salt contains :
+Basic Radical : Pb2+
+Acid Radical : NO -.
+3
+
+========== PAGE 8 ==========
+
+8
+Aim : To detect Acid and Basic Radical In given Unknown Inorganic Sample.
+SAMPLE NO.
+Experiment Observation Inference
+1. PHYSICAL EXAMINATION :
+Colour of the sample is noted White colour Cu2+,Fe2+,Fe3+,Ni2+, Mn2+,Co2+ are
+absent
+2. Dry Test Tube Heating : Cracking sound is obtained PbNO may be present.
+3
+Heated small amount of the
+sample in a dry test tube.
+3.Flame test was performed. Bluish white flame. Pb2+ may be present.
+4.Sample being white in colour Borax bead test was not performed.
+5. Small amount of the sample is Gas with smell of vinegar is CH COO- may be absent.
+3
+treated with dilute H SO . evolved
+2 4
+6. Small amount of the solid Gas with smell of vinegar is CH COO- may be absent.
+3
+sample is treated with evolved
+concentrated H SO
+2 4
+Confirmatory test for acid radicals :
+Aqueous solution of the sample was prepared and following test for acid radical was performed.
+7. Sample solution is mixed with Red colouration.
+neutral FeCl and mixture divided
+3
+into two parts.
+(i) Dilute HCl added to one Red colour disappears CH COO- is present and confirmed.
+3
+portion.
+(ii) Another part is boiled with Red colour obtained
+water.
+8. A pinch of sample is rubbed Smell of vinegar, CH COO- is present and confirmed.
+3
+with oxalic acid and rubbed.
+Confirmatory test for basic radicals :
+Experiment Observation Inference
+9. Heated the solid sample with No specific reaction takes NH + (Group 0) is absent.
+4
+NaOH solution in a test tube and place.
+Nessler's reagent added to it
+Preparation of aqueous extract : Aqueous extract of the sample was prepared and following test for basic
+radical was performed.
+10. Dilute HCl is added to the White precipitate. Gr I radicals , Pb2+ may be present.
+aqueous extract.
+The solution is filtered and with
+the residue analysis for Group I is
+proceeded'
+11.The residue of Group I is
+dissolved in hot water and with
+the solution following test was
+performed : Pb2+ is present and confirmed.
+(i) Added K CrO solution to one Yellow precipitate formed.
+2 4
+part of the solution. Pb2+ is present and confirmed
+(ii) Added KI solution to another Yellow precipitate obtained.
+portion of the solution.
+Since Pb2+ is present analysis for other radical is not done.
+
+========== PAGE 9 ==========
+
+9
+The given salt contains : Basic Radical : Pb2+ Acid Radical : CH COO-.
+3
+Aim : To detect Acid and Basic Radical In given Unknown Inorganic Sample.
+Sample 4
+Experiment Observation Inference
+PHYSICAL EXAMINATION :
+Colour of the sample is noted White colour Cu2+,Fe2+,Fe3+,Ni2+, Mn2+,Co2+ are
+absent
+Dry Test Tube Heating : No specific observation NH + may be present.
+4
+Flame test was performed. Apple green colour appeared observed Ba2+ may be absent.
+with unaided eye.
+Sample being white in colour Borax bead test was not performed.
+Small amount of the sample is No specific reaction takes place. S2-, NO -, CO 2- may be absent.
+2 3
+treated with dilute H SO .
+2 4
+Small amount of the solid sample Greenish gas with pungent smell evolved Cl- may be present.
+is treated with concentrated . It gives dense white fumes with rod
+H SO and pinch of MnO is dipped in NH OH.
+2 4 2 4
+added
+Confirmatory test for acid radicals :
+Aqueous solution of the sample was prepared and following test for acid radical was performed.
+Acidified the solution with dilute HNO Curdy white precipitate formed Cl - is present and confirmed.
+3
+and AgNO solution was added. which is soluble in excess NH OH.
+3 4
+Confirmatory test for basic radicals :
+Heated the solid sample with NaOH No specific reaction takes place. NH + (Group 0) is absent.
+4
+solution in a test tube and Nessler's
+reagent added to it
+Preparation of aqueous extract : :
+Aqueous extract of the sample was prepared and following test for basic radical was performed.
+Dilute HCl is added to the sample No precipitate Gr I radicals is absent
+solution.
+Dilute HCl is added to the sample No precipitate Group II radicals are absent
+solution and H S gas is passed.
+2
+To the Aqueous solution of the sample No precipitate Group III radicals ,are absent.
+NH Cl was added and made alkaline
+4
+with NH OH.
+4
+To the Aqueous solution of the sample No precipitate Group IV radicals, are absent.
+NH Cl was added and made alkaline
+4
+with NH OH. Then H S gas is passed.
+4 2
+Added NH Cl to the aqueous solution of White precipitate formed. Group V radicals, Ca2+,Ba2+,Sr2+
+4
+the sample and made alkaline with may be present.
+NH OH and then (NH ) CO was added.
+4 4 2 3
+The solution is filtered and the with the
+residue analysis for Group V is
+proceeded.
+Analysis of Group V :
+The white precipitate is washed with hot
+water and dissolved in minimum amount
+of hot dilute acetic acid.
+K CrO is added to the warm solution. Yellow precipitate formed Ba2+ is present and confirmed.
+2 4
+Apple green flame obtained Ba2+ is present and confirmed
+
+========== PAGE 10 ==========
+
+10
+The yellow solution is filtered and the
+residue is washed with hot water and
+flame test was performed.
+Since Ba2+ is present analysis for Group VI radical is not done.
+The given salt contains:
+Basic Radical : Ba2+ Acid Radical : Cl -

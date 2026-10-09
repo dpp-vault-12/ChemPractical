@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e7c66"/>
+      <stop offset="1" stop-color="#0a5d4d"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <g fill="none" stroke="#fcd34d" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Flask -->
+    <path d="M26 14h12M28 14v10l-9 16a6 6 0 0 0 5 9h16a6 6 0 0 0 5-9l-9-16V14"/>
+    <path d="M22 38h20"/>
+  </g>
+  <circle cx="32" cy="42" r="2.4" fill="#fcd34d"/>
+  <circle cx="27" cy="46" r="1.6" fill="#fcd34d"/>
+  <circle cx="37" cy="46" r="1.6" fill="#fcd34d"/>
+</svg>
